@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple task tracker build with React in the [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by [Traversy Media](https://www.youtube.com/@TraversyMedia). I learned a lot, honestly, and now React isn't some wierd-ass alien tech, but a tool in my developer toolkit. Make sure to check out the video, it's fucking good - [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 ## Available Scripts
 
